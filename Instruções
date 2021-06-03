@@ -5,6 +5,6 @@ entre com os seguintes codigos na ordem apresentada em seu terminal de escolha:
 
 (recomenda-se usar o terminal bash do git, pois funciona melhor com esse tipo de aplicação)
 
-npm i -g @nestjs/cli
+npm i -g @nestjs/cli (Para instalar o node modules e os arquivos necessarios pra rodar)
 cd backend && npm instal
 npm run start
