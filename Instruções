@@ -1,0 +1,10 @@
+Instruções para iniciar a aplicação:
+
+Ao baixar todos os arquivos e descompactar na pasta htdocs, 
+entre com os seguintes codigos na ordem apresentada em seu terminal de escolha:
+
+(recomenda-se usar o terminal bash do git, pois funciona melhor com esse tipo de aplicação)
+
+npm i -g @nestjs/cli
+cd backend && npm instal
+npm run start
