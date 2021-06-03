@@ -8,3 +8,8 @@ entre com os seguintes codigos na ordem apresentada em seu terminal de escolha:
 npm i -g @nestjs/cli (Para instalar o node modules e os arquivos necessarios pra rodar)
 cd backend && npm instal
 npm run start
+
+O banco de dados que está presente junto com os arquivos
+já possoui algumas cadeiras cadastradas para exemplo. 
+É necessario importar ela para o phpMyAdmin.
+
