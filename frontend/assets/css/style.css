@@ -1,0 +1,84 @@
+/* Body */
+body {
+    background: linear-gradient(70deg, #e6e6e6, #f7f7f7);
+    color: #3F4041;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*Carousel*/
+
+
+/* Breadcrumb */
+
+.breadcrumb {
+    background-color: #1D1D1D;
+    box-shadow: 1px 10px 5px rgba(128, 128, 128, 0.575);
+    border-radius: 0px;
+    border: #3F4041 1px solid;
+}
+
+.breadcrumb-item{
+    color: #fff; 
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+
+/* Catalogo INI */
+
+.color-red {
+    color: #D6001C;
+    font-weight: bold;
+}
+
+/* Produtos */
+
+.catologo {
+    width: 100% !important;
+    min-height: 100vh !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: space-evenly !important; 
+    align-items: center !important;
+}
+
+.botão {
+    background-color: #1D1D1D;
+    background-color: #000 !important;
+    color: #fff;
+    border-radius: 50px;
+    display: inline-block;
+    padding: 6px 25px;
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.botão:focus {
+    outline: none !important;
+}
+
+.card {
+    margin: 16px 0;
+}
+
+/* Form */
+
+.btn{
+    background-color: #1D1D1D;
+    color: #fff;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+
+/* Footer */
+
+.social{
+    background-color: #D6001C;
+}
+
+.copyright{
+    overflow: hidden;
+    color: rgba(255,255,255,0.6);
+    background-color: #1D1D1D;
+}
