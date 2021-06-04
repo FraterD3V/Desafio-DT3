@@ -12,6 +12,7 @@ cd backend && npm instal
 npm run start
 
 O banco de dados que está presente junto com os arquivos
-já possoui algumas cadeiras cadastradas para exemplo. 
+já possoui algumas cadeiras cadastradas para exemplo.
+<br>
 É necessario importar ela para o phpMyAdmin.
 
