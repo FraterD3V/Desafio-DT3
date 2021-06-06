@@ -7,7 +7,7 @@ entre com os seguintes codigos na ordem apresentada em seu terminal de escolha:
 
 npm i -g @nestjs/cli (Para instalar o node modules e os arquivos necessarios pra rodar)
 <br>
-cd backend && npm instal
+cd backend && npm install
 <br>
 npm run start
 
