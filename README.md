@@ -1,18 +1,18 @@
-Instruções para iniciar a aplicação:
+### ▶️ Inicialização
 
-Ao baixar todos os arquivos e descompactar na pasta htdocs, 
-entre com os seguintes codigos na ordem apresentada em seu terminal de escolha:
+Inicialize o projeto com npm
 
-(recomenda-se usar o terminal bash do git, pois funciona melhor com esse tipo de aplicação)
+```bash
+  npm i -g @nestjs/cli
+  cd backend && npm install
+  npm run start
+```
 
-npm i -g @nestjs/cli (Para instalar o node modules e os arquivos necessarios pra rodar)
-<br>
-cd backend && npm install
-<br>
-npm run start
+O banco presente nos arquivos já possoui algumas cadeiras cadastradas como exemplo, sendo necessario a importação para o phpMyAdmin ou outra aplicação.
 
-O banco de dados que está presente junto com os arquivos
-já possoui algumas cadeiras cadastradas para exemplo.
-<br>
-É necessario importar ela para o phpMyAdmin.
 
+    
+## 
+
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
